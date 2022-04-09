@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 5px skyblue;
+  font-size: 40px;
+  font-family: times new roman;
+}
+
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+  .carousel-inner img {
+      width: 10%;
+      height: 10%;

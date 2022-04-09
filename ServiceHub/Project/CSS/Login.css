@@ -1,0 +1,61 @@
+h1 {
+	 text-align: center;
+  text-shadow: 2px 2px 5px skyblue;
+  font-size: 40px;
+  font-family: times new roman;
+}
+
+body {
+  background-color: #1E90FF;
+}
+
+form {
+  background-color: lightblue;
+}
+
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  font-family: courier;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 60px 250px;
+}
+
+
+/* Set a style for all buttons */
+button {
+  background-color: #1E90FF; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+}  
+.button2 {
+  background-color: #4CAF50;
+
+}
+
+  
+
+
+
